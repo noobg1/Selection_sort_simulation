@@ -1,1 +1,1 @@
-# Selection_sort_simulation
+# Selection Sort simulation using openGL
